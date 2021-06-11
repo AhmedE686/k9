@@ -26,6 +26,6 @@ int main()
       printf("Excellent");
   }
   else
-    printf("Enter a valid number from 0 to 100 ");
+    printf("Enter a valid number from 1 to 100 ");
     return 0;
 }
